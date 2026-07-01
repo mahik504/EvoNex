@@ -1,0 +1,10 @@
+lightkurve
+astropy
+pandas
+numpy
+scipy
+plotly
+matplotlib
+scikit-learn
+jupyterlab
+statsmodels
